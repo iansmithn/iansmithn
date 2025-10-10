@@ -26,6 +26,7 @@
 🌐 Frontend:   Next JS · React JS · React Native · Tailwind CSS · CSS Modules · Vite
 ☁️ DevOps:     Docker · GitHub Actions · Nginx · AWS (EC2, S3, RDS)
 🛠 Tools:      Git · VS Code · Postman · Figma
+```
 
 
 <br>

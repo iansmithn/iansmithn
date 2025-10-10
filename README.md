@@ -18,32 +18,16 @@
 
  <hr>
  
-<h2 align="center">⚒️ Languages, Frameworks & Tools </h2>
+<h2 align="center">🧰 Tech Stack </h2>
 <br>
 
+```plaintext
+💻 Backend:    Django · Django Rest Framework · Express JS · PostgreSQL · Mongo DB
+🌐 Frontend:   Next JS · React JS · React Native · Tailwind CSS · CSS Modules · Vite
+☁️ DevOps:     Docker · GitHub Actions · Nginx · AWS (EC2, S3, RDS)
+🛠 Tools:      Git · VS Code · Postman · Figma
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/NEXT.JS-%23404d59.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
-![POSTGRE](https://img.shields.io/badge/PostgreSQL-%23404d59.svg?style=for-the-badge&logo=postgresql&color=D3D3D3)
-![POSTMAN](https://img.shields.io/badge/postman-%2331A8FF.svg?style=for-the-badge&logo=postman&color=black)
-![REDUX](https://img.shields.io/badge/redux-%2331A8FF.svg?style=for-the-badge&logo=redux&color=purple)
-![PRISMA](https://img.shields.io/badge/prisma-%2331A8FF.svg?style=for-the-badge&logo=prisma&color=grey)<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2331A8FF.svg?style=for-the-badge&logo=adobeillustrator&color=brown&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%2331A8FF.svg?style=for-the-badge&logo=jirasoftware&color=blue)
+
 <br>
 <hr/>
 

@@ -20,7 +20,6 @@
  
 <h2 align="left">🧰 Tech Stack </h2>
 <br>
-
 ```plaintext
 💻 Backend:    Django · Django Rest Framework · Express JS · PostgreSQL · Mongo DB
 🌐 Frontend:   Next JS · React JS · React Native · Tailwind CSS · CSS Modules · Vite
